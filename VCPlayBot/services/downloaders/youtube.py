@@ -1,7 +1,7 @@
 
 from os import path
 
-from yt-dlp import YoutubeDL
+from youtube_dl import YoutubeDL
 
 from VCPlayBot.config import DURATION_LIMIT
 from VCPlayBot.helpers.errors import DurationLimitError
