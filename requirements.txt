@@ -3,12 +3,12 @@ tgcrypto
 pytgcalls[pyrogram]
 python-dotenv
 youtube_dl
-youtube-search-python
+youtube_search_python
 requests
 aiohttp
 aiofiles
 asyncio
-youtube-search
+youtube_search
 search-engine-parser
 ffmpeg-python
 pillow
